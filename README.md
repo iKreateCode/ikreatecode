@@ -8,5 +8,3 @@
 - 💬 Ask me about **App development**
 
 - 📫 How to reach me **emaz111@hotmail.com**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikreatecode&show_icons=true&theme=dark&locale=en&layout=compact" alt="ikreatecode" /></p>
