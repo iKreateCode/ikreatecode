@@ -1,9 +1,9 @@
-<h3 align="center">A curious Software Engineer working at BT :D</h3>
+<h3 align="center">A curious Software Engineer :D</h3>
 
 
-- 🌱 I’m currently working with mobile app development using **Flutter** and learning React
+- 🌱 I’m currently working on projects using **Flutter** and **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://emazkhan.me](https://emazkhan.me)
+- 👨‍💻 Preparing for my **AWS Solutions Architect Associate** certification exam
 
 - 💬 Ask me about **App development**
 
