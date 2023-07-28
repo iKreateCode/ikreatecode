@@ -8,3 +8,6 @@
 - 💬 Ask me about **App development**
 
 - 📫 How to reach me **emaz111@hotmail.com**
+
+
+Most of my projects are private
